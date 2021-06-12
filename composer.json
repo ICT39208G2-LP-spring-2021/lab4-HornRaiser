@@ -1,0 +1,12 @@
+{
+    "name": "giorgi/lab4-HornRaiser",
+    "authors": [
+        {
+            "name": "Giorgi Karkusashvili",
+            "email": "qarqusashvili.giorgi.@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
